@@ -1,0 +1,14 @@
+﻿
+<div class="shortener-form-wrap">
+    <section class="shortener-form">
+        <h2 style="align-content:center">Enter your link below and Shortit!</h2>
+        <form method="post">
+            <input type="text" name="url" style="width: 70%"/>
+            <input type="submit" value="Shortit!" />
+        </form>
+        <div class="resp-area inactive" id="resp-area">
+        </div>
+    </section>
+    <h2>@ViewData["Result"]</h2>
+    <a href="@ViewData["Url"]">@ViewData["Url"]</a>
+</div>

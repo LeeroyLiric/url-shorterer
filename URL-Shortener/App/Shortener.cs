@@ -1,11 +1,11 @@
 ﻿using LiteDB;
-using Short_links.Models;
+using URL_Shorter.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Short_links.App
+namespace URL_Shorter.App
 {
 		public class Shortener
 		{

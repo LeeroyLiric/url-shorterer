@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Short_links.App;
-using Short_links.Models;
+using URL_Shorter.App;
+using URL_Shorter.Models;
 
-namespace Short_links.Controllers
+namespace URL_Shorter.Controllers
 {
     public class HomeController : Controller
     {

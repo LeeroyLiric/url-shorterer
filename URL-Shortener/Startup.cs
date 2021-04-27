@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Short_links.App;
+using URL_Shorter.App;
 
-namespace Short_links
+namespace URL_Shorter
 {
     public class Startup
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Short_links.Models
+namespace URL_Shorter.Models
 {
     public class Urls
     {
